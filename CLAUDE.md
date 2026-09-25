@@ -36,8 +36,10 @@ font SpaceMono (bundled) in UPPERCASE with wide tracking. Core widget: `SystemWi
 
 ## Open decisions
 Sign-in methods at launch · final app name / bundle ID (placeholder `com.huntersystem`) ·
-LLM provider · Train/Diet unlock timing · Git + GitHub setup (recommended, root = this folder).
+LLM provider · Train/Diet unlock timing.
 
 ## Environment notes
 - Windows PC, project at `C:\dev\hunter-system` (moved out of OneDrive).
+- Git: repo root = this folder, branch `main`, remote https://github.com/iamlakshay12/soloapp.
+  `_archive/` is gitignored (has its own git history; kept locally for reference).
 - Full plan doc: "Hunter SYSTEM — Flutter Rebuild & Deployment Plan" (Claude Docs).
