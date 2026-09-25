@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Hunter SYSTEM (Chrome)",
+      "type": "dart",
+      "request": "launch",
+      "cwd": "hunter_app",
+      "program": "lib/main.dart",
+      "deviceId": "chrome"
+    }
+  ]
+}

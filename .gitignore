@@ -1,0 +1,15 @@
+# Old Expo+Clerk build — reference only, has its own git history
+_archive/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+
+# Env / secrets
+.env
+.env.*
+*.pem
+*.jks
+*.keystore
+key.properties
